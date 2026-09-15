@@ -1,6 +1,6 @@
 # MCP Toolbox
 
-Internal MCP server that exposes shared engineering tools to agents across the
+Internal MCP demo server that exposes shared engineering tools to agents across the
 org, so each team does not rebuild the same integrations.
 
 Also ships a small triage agent that consumes the server over MCP.
